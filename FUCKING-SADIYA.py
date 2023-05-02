@@ -159,37 +159,87 @@ os.system('xdg-open https://xgx.mobi/free/new-hot-indean-sex-video-in-2023/')
 logo = ("""
 
  
-$$$$$$$$\ $$$$$$$$\                     
-\__$$  __|\__$$  __|                    
-   $$ |      $$ |                       
-   $$ |      $$ |                       
-   $$ |      $$ |                       
-   $$ |      $$ |                       
-   $$ |      $$ |                       
-   \__|      \__|                       
-                                        
-                                        
-                                        
-$$$$$$$\   $$$$$$\  $$$$$$$\  $$\   $$\ 
-$$  __$$\ $$  __$$\ $$  __$$\ $$ | $$  |
-$$ |  $$ |$$ /  $$ |$$ |  $$ |$$ |$$  / 
-$$ |  $$ |$$$$$$$$ |$$$$$$$  |$$$$$  /  
-$$ |  $$ |$$  __$$ |$$  __$$< $$  $$<   
-$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |\$$\  
-$$$$$$$  |$$ |  $$ |$$ |  $$ |$$ | \$$\ 
-\_______/ \__|  \__|\__|  \__|\__|  \__|
+
+                                                                                                                                               
+                                                                                                                                               
+IIIIIIIIII                                                                                                                                     
+I::::::::I                                                                                                                                     
+I::::::::I                                                                                                                                     
+II::::::II                                                                                                                                     
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+  I::::I                                                                                                                                       
+II::::::II                                                                                                                                     
+I::::::::I                                                                                                                                     
+I::::::::I                                                                                                                                     
+IIIIIIIIII                                                                                                                                     
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+FFFFFFFFFFFFFFFFFFFFFFUUUUUUUU     UUUUUUUU       CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKIIIIIIIIIINNNNNNNN        NNNNNNNN        GGGGGGGGGGGGG     
+F::::::::::::::::::::FU::::::U     U::::::U    CCC::::::::::::CK:::::::K    K:::::KI::::::::IN:::::::N       N::::::N     GGG::::::::::::G     
+F::::::::::::::::::::FU::::::U     U::::::U  CC:::::::::::::::CK:::::::K    K:::::KI::::::::IN::::::::N      N::::::N   GG:::::::::::::::G     
+FF::::::FFFFFFFFF::::FUU:::::U     U:::::UU C:::::CCCCCCCC::::CK:::::::K   K::::::KII::::::IIN:::::::::N     N::::::N  G:::::GGGGGGGG::::G     
+  F:::::F       FFFFFF U:::::U     U:::::U C:::::C       CCCCCCKK::::::K  K:::::KKK  I::::I  N::::::::::N    N::::::N G:::::G       GGGGGG     
+  F:::::F              U:::::D     D:::::UC:::::C                K:::::K K:::::K     I::::I  N:::::::::::N   N::::::NG:::::G                   
+  F::::::FFFFFFFFFF    U:::::D     D:::::UC:::::C                K::::::K:::::K      I::::I  N:::::::N::::N  N::::::NG:::::G                   
+  F:::::::::::::::F    U:::::D     D:::::UC:::::C                K:::::::::::K       I::::I  N::::::N N::::N N::::::NG:::::G    GGGGGGGGGG     
+  F:::::::::::::::F    U:::::D     D:::::UC:::::C                K:::::::::::K       I::::I  N::::::N  N::::N:::::::NG:::::G    G::::::::G     
+  F::::::FFFFFFFFFF    U:::::D     D:::::UC:::::C                K::::::K:::::K      I::::I  N::::::N   N:::::::::::NG:::::G    GGGGG::::G     
+  F:::::F              U:::::D     D:::::UC:::::C                K:::::K K:::::K     I::::I  N::::::N    N::::::::::NG:::::G        G::::G     
+  F:::::F              U::::::U   U::::::U C:::::C       CCCCCCKK::::::K  K:::::KKK  I::::I  N::::::N     N:::::::::N G:::::G       G::::G     
+FF:::::::FF            U:::::::UUU:::::::U  C:::::CCCCCCCC::::CK:::::::K   K::::::KII::::::IIN::::::N      N::::::::N  G:::::GGGGGGGG::::G     
+F::::::::FF             UU:::::::::::::UU    CC:::::::::::::::CK:::::::K    K:::::KI::::::::IN::::::N       N:::::::N   GG:::::::::::::::G     
+F::::::::FF               UU:::::::::UU        CCC::::::::::::CK:::::::K    K:::::KI::::::::IN::::::N        N::::::N     GGG::::::GGG:::G     
+FFFFFFFFFFF                 UUUUUUUUU             CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKIIIIIIIIIINNNNNNNN         NNNNNNN        GGGGGG   GGGG     
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+   SSSSSSSSSSSSSSS              AAA               DDDDDDDDDDDDD      IIIIIIIIIIYYYYYYY       YYYYYYY           AAA                             
+ SS:::::::::::::::S            A:::A              D::::::::::::DDD   I::::::::IY:::::Y       Y:::::Y          A:::A                            
+S:::::SSSSSS::::::S           A:::::A             D:::::::::::::::DD I::::::::IY:::::Y       Y:::::Y         A:::::A                           
+S:::::S     SSSSSSS          A:::::::A            DDD:::::DDDDD:::::DII::::::IIY::::::Y     Y::::::Y        A:::::::A                          
+S:::::S                     A:::::::::A             D:::::D    D:::::D I::::I  YYY:::::Y   Y:::::YYY       A:::::::::A                         
+S:::::S                    A:::::A:::::A            D:::::D     D:::::DI::::I     Y:::::Y Y:::::Y         A:::::A:::::A                        
+ S::::SSSS                A:::::A A:::::A           D:::::D     D:::::DI::::I      Y:::::Y:::::Y         A:::::A A:::::A                       
+  SS::::::SSSSS          A:::::A   A:::::A          D:::::D     D:::::DI::::I       Y:::::::::Y         A:::::A   A:::::A                      
+    SSS::::::::SS       A:::::A     A:::::A         D:::::D     D:::::DI::::I        Y:::::::Y         A:::::A     A:::::A                     
+       SSSSSS::::S     A:::::AAAAAAAAA:::::A        D:::::D     D:::::DI::::I         Y:::::Y         A:::::AAAAAAAAA:::::A                    
+            S:::::S   A:::::::::::::::::::::A       D:::::D     D:::::DI::::I         Y:::::Y        A:::::::::::::::::::::A                   
+            S:::::S  A:::::AAAAAAAAAAAAA:::::A      D:::::D    D:::::D I::::I         Y:::::Y       A:::::AAAAAAAAAAAAA:::::A                  
+SSSSSSS     S:::::S A:::::A             A:::::A   DDD:::::DDDDD:::::DII::::::II       Y:::::Y      A:::::A             A:::::A                 
+S::::::SSSSSS:::::SA:::::A               A:::::A  D:::::::::::::::DD I::::::::I    YYYY:::::YYYY  A:::::A               A:::::A                
+S:::::::::::::::SSA:::::A                 A:::::A D::::::::::::DDD   I::::::::I    Y:::::::::::Y A:::::A                 A:::::A               
+ SSSSSSSSSSSSSSS AAAAAAA                   AAAAAAADDDDDDDDDDDDD      IIIIIIIIII    YYYYYYYYYYYYYAAAAAAA                   AAAAAAA              
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                                                                            
-                                                                           
-                                        
-                                        
-                                                                                               
+                                                                                                                                                                                                                                                      
 \033[1;94m       [+]===============================================[+]
-\033[1;94m       [+]        CREATED BY   :  TT-DARK                \033[1;94m[+]
-\033[1;94m       [+]        ON GITHUB    :  TT-DARK                \033[1;94m[+]
-\033[1;94m       [+]        TEAM         :  ANONYMOUS CYBER        \033[1;94m[+]
-\033[1;94m       [+]        TOOL VERSION :  0.5                    \033[1;94m[+]
-\033[1;94m       [+]        TOOL STATUS  :  RANDOM CLONING         \033[1;94m[+]
-\033[1;94m       [+]        COUNTRY      :  BANGLADESH             \033[1;94m[+]
+\033[1;94m       [+]             CREATED BY :  X FOR SADIYA           \033[1;94m[+]
+\033[1;94m       [+] FACEBOOK ID FOR SADIYA :  Sadiyajahanyealam      \033[1;94m[+]
+\033[1;94m       [+]                   TEAM :  Sani leon's            \033[1;94m[+]
+\033[1;94m       [+]            SEX VERSION :  OPEN CHODA CHODI       \033[1;94m[+]
+\033[1;94m       [+]             SEX STATUS :  JONI DAA               \033[1;94m[+]
+\033[1;94m       [+]                COUNTRY :  CHROME                 \033[1;94m[+]
 \033[1;94m       [+]===============================================[+]
 """)                                              
 
