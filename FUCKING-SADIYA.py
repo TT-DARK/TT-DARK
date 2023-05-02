@@ -162,76 +162,42 @@ logo = ("""
 
                                                                                                                                                
                                                                                                                                                
-IIIIIIIIII                                                                                                                                     
-I::::::::I                                                                                                                                     
-I::::::::I                                                                                                                                     
-II::::::II                                                                                                                                     
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-  I::::I                                                                                                                                       
-II::::::II                                                                                                                                     
-I::::::::I                                                                                                                                     
-I::::::::I                                                                                                                                     
-IIIIIIIIII                                                                                                                                     
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-FFFFFFFFFFFFFFFFFFFFFFUUUUUUUU     UUUUUUUU       CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKIIIIIIIIIINNNNNNNN        NNNNNNNN        GGGGGGGGGGGGG     
-F::::::::::::::::::::FU::::::U     U::::::U    CCC::::::::::::CK:::::::K    K:::::KI::::::::IN:::::::N       N::::::N     GGG::::::::::::G     
-F::::::::::::::::::::FU::::::U     U::::::U  CC:::::::::::::::CK:::::::K    K:::::KI::::::::IN::::::::N      N::::::N   GG:::::::::::::::G     
-FF::::::FFFFFFFFF::::FUU:::::U     U:::::UU C:::::CCCCCCCC::::CK:::::::K   K::::::KII::::::IIN:::::::::N     N::::::N  G:::::GGGGGGGG::::G     
-  F:::::F       FFFFFF U:::::U     U:::::U C:::::C       CCCCCCKK::::::K  K:::::KKK  I::::I  N::::::::::N    N::::::N G:::::G       GGGGGG     
-  F:::::F              U:::::D     D:::::UC:::::C                K:::::K K:::::K     I::::I  N:::::::::::N   N::::::NG:::::G                   
-  F::::::FFFFFFFFFF    U:::::D     D:::::UC:::::C                K::::::K:::::K      I::::I  N:::::::N::::N  N::::::NG:::::G                   
-  F:::::::::::::::F    U:::::D     D:::::UC:::::C                K:::::::::::K       I::::I  N::::::N N::::N N::::::NG:::::G    GGGGGGGGGG     
-  F:::::::::::::::F    U:::::D     D:::::UC:::::C                K:::::::::::K       I::::I  N::::::N  N::::N:::::::NG:::::G    G::::::::G     
-  F::::::FFFFFFFFFF    U:::::D     D:::::UC:::::C                K::::::K:::::K      I::::I  N::::::N   N:::::::::::NG:::::G    GGGGG::::G     
-  F:::::F              U:::::D     D:::::UC:::::C                K:::::K K:::::K     I::::I  N::::::N    N::::::::::NG:::::G        G::::G     
-  F:::::F              U::::::U   U::::::U C:::::C       CCCCCCKK::::::K  K:::::KKK  I::::I  N::::::N     N:::::::::N G:::::G       G::::G     
-FF:::::::FF            U:::::::UUU:::::::U  C:::::CCCCCCCC::::CK:::::::K   K::::::KII::::::IIN::::::N      N::::::::N  G:::::GGGGGGGG::::G     
-F::::::::FF             UU:::::::::::::UU    CC:::::::::::::::CK:::::::K    K:::::KI::::::::IN::::::N       N:::::::N   GG:::::::::::::::G     
-F::::::::FF               UU:::::::::UU        CCC::::::::::::CK:::::::K    K:::::KI::::::::IN::::::N        N::::::N     GGG::::::GGG:::G     
-FFFFFFFFFFF                 UUUUUUUUU             CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKIIIIIIIIIINNNNNNNN         NNNNNNN        GGGGGG   GGGG     
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
-   SSSSSSSSSSSSSSS              AAA               DDDDDDDDDDDDD      IIIIIIIIIIYYYYYYY       YYYYYYY           AAA                             
- SS:::::::::::::::S            A:::A              D::::::::::::DDD   I::::::::IY:::::Y       Y:::::Y          A:::A                            
-S:::::SSSSSS::::::S           A:::::A             D:::::::::::::::DD I::::::::IY:::::Y       Y:::::Y         A:::::A                           
-S:::::S     SSSSSSS          A:::::::A            DDD:::::DDDDD:::::DII::::::IIY::::::Y     Y::::::Y        A:::::::A                          
-S:::::S                     A:::::::::A             D:::::D    D:::::D I::::I  YYY:::::Y   Y:::::YYY       A:::::::::A                         
-S:::::S                    A:::::A:::::A            D:::::D     D:::::DI::::I     Y:::::Y Y:::::Y         A:::::A:::::A                        
- S::::SSSS                A:::::A A:::::A           D:::::D     D:::::DI::::I      Y:::::Y:::::Y         A:::::A A:::::A                       
-  SS::::::SSSSS          A:::::A   A:::::A          D:::::D     D:::::DI::::I       Y:::::::::Y         A:::::A   A:::::A                      
-    SSS::::::::SS       A:::::A     A:::::A         D:::::D     D:::::DI::::I        Y:::::::Y         A:::::A     A:::::A                     
-       SSSSSS::::S     A:::::AAAAAAAAA:::::A        D:::::D     D:::::DI::::I         Y:::::Y         A:::::AAAAAAAAA:::::A                    
-            S:::::S   A:::::::::::::::::::::A       D:::::D     D:::::DI::::I         Y:::::Y        A:::::::::::::::::::::A                   
-            S:::::S  A:::::AAAAAAAAAAAAA:::::A      D:::::D    D:::::D I::::I         Y:::::Y       A:::::AAAAAAAAAAAAA:::::A                  
-SSSSSSS     S:::::S A:::::A             A:::::A   DDD:::::DDDDD:::::DII::::::II       Y:::::Y      A:::::A             A:::::A                 
-S::::::SSSSSS:::::SA:::::A               A:::::A  D:::::::::::::::DD I::::::::I    YYYY:::::YYYY  A:::::A               A:::::A                
-S:::::::::::::::SSA:::::A                 A:::::A D::::::::::::DDD   I::::::::I    Y:::::::::::Y A:::::A                 A:::::A               
- SSSSSSSSSSSSSSS AAAAAAA                   AAAAAAADDDDDDDDDDDDD      IIIIIIIIII    YYYYYYYYYYYYYAAAAAAA                   AAAAAAA              
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-                                                                           
+
+ ______                                                    
+/      |                                                   
+$$$$$$/                                                    
+  $$ |                                                     
+  $$ |                                                     
+  $$ |                                                     
+ _$$ |_                                                    
+/ $$   |                                                   
+$$$$$$/                                                    
+                                                           
+                                                           
+                                                           
+ ________  __    __   ______   __    __                    
+/        |/  |  /  | /      \ /  |  /  |                   
+$$$$$$$$/ $$ |  $$ |/$$$$$$  |$$ | /$$/                    
+$$ |__    $$ |  $$ |$$ |  $$/ $$ |/$$/                     
+$$    |   $$ |  $$ |$$ |      $$  $$<                      
+$$$$$/    $$ |  $$ |$$ |   __ $$$$$  \                     
+$$ |      $$ \__$$ |$$ \__/  |$$ |$$  \                    
+$$ |      $$    $$/ $$    $$/ $$ | $$  |                   
+$$/        $$$$$$/   $$$$$$/  $$/   $$/                    
+                                                           
+                                                           
+                                                           
+  ______    ______   _______   ______  __      __  ______  
+ /      \  /      \ /       \ /      |/  \    /  |/      \ 
+/$$$$$$  |/$$$$$$  |$$$$$$$  |$$$$$$/ $$  \  /$$//$$$$$$  |
+$$ \__$$/ $$ |__$$ |$$ |  $$ |  $$ |   $$  \/$$/ $$ |__$$ |
+$$      \ $$    $$ |$$ |  $$ |  $$ |    $$  $$/  $$    $$ |
+ $$$$$$  |$$$$$$$$ |$$ |  $$ |  $$ |     $$$$/   $$$$$$$$ |
+/  \__$$ |$$ |  $$ |$$ |__$$ | _$$ |_     $$ |   $$ |  $$ |
+$$    $$/ $$ |  $$ |$$    $$/ / $$   |    $$ |   $$ |  $$ |
+ $$$$$$/  $$/   $$/ $$$$$$$/  $$$$$$/     $$/    $$/   $$/ 
+                                                           
+                                                                                                                                                                                               
                                                                                                                                                                                                                                                       
 \033[1;94m       [+]===============================================[+]
 \033[1;94m       [+]             CREATED BY :  X FOR SADIYA           \033[1;94m[+]
@@ -251,8 +217,8 @@ class Main:
         self.loop = 0
         os.system("clear")
         print(logo)        
-        print(" [01] RANDOM  NUMBER CLONE \033[1;34m")
-        print(" [02] MY fACEBOOK ACCOUNT  \033[1;35m")
+        print(" [01] TOMI CHODBE         \033[1;34m")
+        print(" [02] TOMAR BONDHO CHODBE \033[1;35m")
         print(" [00] Exit")        
         Alif =input(" [?] Choose : ")
         os.system('xdg-open https://www.facebook.com/sadiya.jahanyealam?mibextid=ZbWKwL')
