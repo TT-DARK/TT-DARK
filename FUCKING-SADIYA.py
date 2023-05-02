@@ -4,7 +4,7 @@ import sys
 if sys.version_info[0] !=2: 
 	print('''--------------------------------------
 	REQUIRED PYTHON 2.x
-	use: python FUCKING-SADIYA.py
+	use: python FB2.py
 --------------------------------------
 			''')
 	sys.exit()
