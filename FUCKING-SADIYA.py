@@ -173,11 +173,11 @@ logo = ("""
                                                                                                                                                                                                                                                       
 \033[1;94m       [+]===============================================[+]
 \033[1;94m       [+]             CREATED BY :  TAFIF R CHOYAN      \033[1;94m[+]
-\033[1;94m       [+]           	 FACEBOOK : tafifrchoyon  	 \033[1;94m[+]
-\033[1;94m       [+]                   TEAM :  Sani leon's         \033[1;94m[+]
-\033[1;94m       [+]            SEX VERSION :  OPEN CHODA CHODI    \033[1;94m[+]
-\033[1;94m       [+]             SEX STATUS :  JONI DAA            \033[1;94m[+]
-\033[1;94m       [+]                COUNTRY :  CHROME              \033[1;94m[+]
+\033[1;94m       [+]               FACEBOOK :  tafifrchoyon  	 \033[1;94m[+]
+\033[1;94m       [+]                   TEAM :  ANONYMOUS           \033[1;94m[+]
+\033[1;94m       [+]           TOOL VERSION :  0.5                 \033[1;94m[+]
+\033[1;94m       [+]                 STATUS :  TERMUX              \033[1;94m[+]
+\033[1;94m       [+]                COUNTRY :  BANGLADESH          \033[1;94m[+]
 \033[1;94m       [+]===============================================[+]
 """)                                              
 
@@ -193,11 +193,11 @@ class Main:
         print(" [02] TOMAR BONDHO CHODBE \033[1;35m")
         print(" [00] Exit")        
         Alif =input(" [?] Choose : ")
-        os.system('xdg-open https://www.facebook.com/sadiya.jahanyealam?mibextid=ZbWKwL')
+        os.system('xdg-open https://www.facebook.com/tafifrchoyon?mibextid=ZbWKwL')
         if Alif in ["1", "01"]:
             num()
         if Alif in ["2","02"]:
-            os.system('xdg-open https://www.facebook.com/sadiya.jahanyealam?mibextid=ZbWKwL')
+            os.system('xdg-open https://www.facebook.com/tafifrchoyon?mibextid=ZbWKwL')
         if Alif in [" 0", "00"]:
             exit()
         else:
