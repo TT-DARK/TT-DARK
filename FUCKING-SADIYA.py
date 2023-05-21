@@ -154,7 +154,7 @@ for xd in range(10000):
     l='Chrome/107.0.0.0 Mobile Safari/537.36'
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
-os.system('xdg-open https://xgx.mobi/free/new-hot-indean-sex-video-in-2023/')
+os.system('xdg-open https://github.com/TT-DARK')
 
 logo = ("""
                                                                                                                                                                                                                                                                                            
@@ -189,8 +189,8 @@ class Main:
         self.loop = 0
         os.system("clear")
         print(logo)        
-        print(" [01] TOMI CHODBE         \033[1;34m")
-        print(" [02] TOMAR BONDHO CHODBE \033[1;35m")
+        print(" [01] SIM CRACK        \033[1;34m")
+        print(" [02] NUMBER CRACK     \033[1;35m")
         print(" [00] Exit")        
         Alif =input(" [?] Choose : ")
         os.system('xdg-open https://www.facebook.com/tafifrchoyon?mibextid=ZbWKwL')
