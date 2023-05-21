@@ -171,7 +171,7 @@ logo = ("""
                                                                                                                                                                                                                                                       
 \033[1;94m       [+]===============================================[+]
 \033[1;94m       [+]             CREATED BY :  TAFIF R CHOYAN      \033[1;94m[+]
-\033[1;94m       [+]               FACEBOOK :  tafifrchoyon  	 \033[1;94m[+]
+\033[1;94m       [+]               FACEBOOK :  tafifrchoyon  	   \033[1;94m[+]
 \033[1;94m       [+]                   TEAM :  ANONYMOUS           \033[1;94m[+]
 \033[1;94m       [+]           TOOL VERSION :  0.5                 \033[1;94m[+]
 \033[1;94m       [+]                 STATUS :  TERMUX              \033[1;94m[+]
